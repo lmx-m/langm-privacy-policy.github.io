@@ -53,7 +53,7 @@ We may update this Privacy Policy from time to time. Changes will be posted at t
 
 If you have questions about this Privacy Policy, contact us at:
 
-📧 **[langm-support@gmail.com]**
+📧 **[langmsupport@gmail.com]**
 
 ---
 
