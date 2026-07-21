@@ -1,6 +1,6 @@
 # Privacy Policy — langM
 
-**Last updated:** May 2026
+**Last updated:** July 2026
 
 ## Overview
 
@@ -24,8 +24,11 @@ This data is stored in a local SQLite database on your device and is **never tra
 | **Google AdMob** (when ads are enabled) | Device advertising ID, ad interaction data    | Serving and measuring advertisements |
 | **RevenueCat** (when Pro is purchased)  | Anonymous app user ID, purchase receipts      | Processing in-app subscriptions      |
 | **Google Play**                         | Purchase history, crash reports (if opted in) | App distribution and diagnostics     |
+| **Nostr Relays** (during Internet Share)| Temporary connection data (IP address, SDP)   | Establishing P2P connection          |
+| **Google Translate & MyMemory API**     | Individual vocabulary words                   | Fetching automated translations      |
+| **Tatoeba & Perplexity AI**             | Individual vocabulary words                   | Generating example sentences/stories |
 
-We do **not** share your clipboard content, flashcards, or vocabulary data with any third party.
+Except as required for the automated translation and sentence generation features listed above, we do **not** share your clipboard content, flashcards, or vocabulary data with any third party. During "Internet Share", your flashcards are transmitted directly (peer-to-peer) to the receivers and do not pass through our servers.
 
 ## Children's Privacy
 
